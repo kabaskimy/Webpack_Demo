@@ -1,0 +1,27 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo for webpack",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "webpack_test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabaskimy/Webpack_Demo.git"
+  },
+  "keywords": [
+    "webpack",
+    "demo"
+  ],
+  "author": "kabaskimy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kabaskimy/Webpack_Demo/issues"
+  },
+  "homepage": "https://github.com/kabaskimy/Webpack_Demo#readme"
+}
