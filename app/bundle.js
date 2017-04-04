@@ -1,3 +1,4 @@
+/*! demo from kabaskimy */
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -2049,7 +2050,7 @@ exports = module.exports = __webpack_require__(7)(undefined);
 
 
 // module
-exports.push([module.i, "body {\r\n    color: yellow;\r\n}", ""]);
+exports.push([module.i, "body {\r\n    background: yellow;\r\n}", ""]);
 
 // exports
 
